@@ -1,3 +1,0 @@
-/home/patrick/CS344/assignment-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/patrick/CS344/assignment-3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/patrick/CS344/assignment-3/cmake-build-debug/CMakeFiles/assignment_3.dir
