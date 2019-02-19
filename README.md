@@ -1,5 +1,9 @@
 # smallsh
-a small shell
+A small shell with the following functionalities:
+1. Built-in cd
+2. Built-in launching background processes.
+3. Build-in status,to echo the exit code of the last process.
+4. Launching programs otherwise not built in.
 
 ## compiling
 To build the program run the command
