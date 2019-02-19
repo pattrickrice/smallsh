@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/assignment_3.dir/main.c.o CMakeFiles/assignment_3.dir/list.c.o CMakeFiles/assignment_3.dir/smalllib.c.o CMakeFiles/assignment_3.dir/signal_set.c.o  -o assignment_3 

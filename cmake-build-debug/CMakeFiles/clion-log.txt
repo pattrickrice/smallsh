@@ -1,0 +1,16 @@
+/opt/clion-2018.1.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/patrick/CS344/assignment-3
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    signal_set.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: assignment_3
+
+
+-- Build files have been written to: /home/patrick/CS344/assignment-3/cmake-build-debug
